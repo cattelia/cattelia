@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=806967&height=50&lines=Welcome+to+my+gitHub+page!)](https://git.io/typing-svg)
 
-I am an junior software developer with program management and leadership experience and a focus on application, process, and operational automation. I have both Backend and Frontend experience ranging from my Internship with Symantec with on-premise database migration to Microsoft Azure to Bootcamps I have taken more recently such as [FreeCodeCamp](https://www.freecodecamp.org) and [Boot.dev](https://www.boot.dev/) to re-hone the skills I have lost over the time I have been gone.
+I am a junior software developer with program management and leadership experience and a focus on application, process, and operational automation. I have both Backend and Frontend experience ranging from my Internship with Symantec with on-premise database migration to Microsoft Azure to Bootcamps I have taken more recently such as [FreeCodeCamp](https://www.freecodecamp.org) and [Boot.dev](https://www.boot.dev/) to re-hone the skills I have lost over the time I have been gone.
 
 In my spare time, I continue my studies and development as a programmer through little projects :] and play video games with friends.
 ![sara](https://komarev.com/ghpvc/?username=cattelia&color=yellow)
