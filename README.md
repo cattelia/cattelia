@@ -4,7 +4,7 @@
 
 I am a junior software developer with around 2 years of programming experience and a focus on application, process, and operational automation. I have both Backend and Frontend experience ranging from my Internship with Symantec with database migration to Azure to Bootcamps I have taken more recently such as [FreeCodeCamp](https://www.freecodecamp.org) and [Boot.dev](https://www.boot.dev/) as I enter back into tech after being away for so long.
 
-In my spare time, I continue my studies and development as a programmer that you can check out in my repositories page :]
+In my spare time, I continue my studies and development as a programmer through little projects :] and play video games with friends.
 
 ### Connect with me 📱:
 
