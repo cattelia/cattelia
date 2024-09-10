@@ -5,8 +5,8 @@
 I am an junior software developer with program management and leadership experience and a focus on application, process, and operational automation. I have both Backend and Frontend experience ranging from my Internship with Symantec with on-premise database migration to Microsoft Azure to Bootcamps I have taken more recently such as [FreeCodeCamp](https://www.freecodecamp.org) and [Boot.dev](https://www.boot.dev/) to re-hone the skills I have lost over the time I have been gone.
 
 In my spare time, I continue my studies and development as a programmer through little projects :] and play video games with friends.
-
-### Connect with me 📱:
+![sara](https://komarev.com/ghpvc/?username=cattelia&color=yellow)
+### Connect with me 📱: 
 
 - [LinkedIn](https://www.linkedin.com/in/saraeilenstine/)
 - [Email Me](mailto:sara.eilenstine@gmail.com)
@@ -40,10 +40,9 @@ In my spare time, I continue my studies and development as a programmer through 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-039BE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-239120?style=for-the-badge&logo=nginx&logoColor=white)
 
-</br>
 <div align="center">
-  
-![cute-cat-white](https://github.com/cattelia/cattelia.github.io/assets/16729225/324cfaa2-154e-4d38-93c0-444d9aa5e8bc)
-  
+  <div align="center">
+<span style="color:pink; font-weight: 900;"> Thank you for stopping by!</span>
 </div>
-![sara](https://komarev.com/ghpvc/?username=cattelia&color=yellow)
+  <img src="https://github.com/cattelia/cattelia.github.io/assets/16729225/324cfaa2-154e-4d38-93c0-444d9aa5e8bc"; img style="width: 250px;">
+</div>
