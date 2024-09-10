@@ -44,5 +44,5 @@ In my spare time, I continue my studies and development as a programmer through 
   <div align="center">
 <span style="color:pink; font-weight: 900;"> Thank you for stopping by!</span>
 </div>
-  <img src="https://github.com/cattelia/cattelia.github.io/assets/16729225/324cfaa2-154e-4d38-93c0-444d9aa5e8bc"; img style="width: 250px;">
+  <img src="https://github.com/cattelia/cattelia.github.io/assets/16729225/324cfaa2-154e-4d38-93c0-444d9aa5e8bc"; img style="width: 150px;">
 </div>
