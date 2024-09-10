@@ -11,7 +11,7 @@ In my spare time, I continue my studies and development as a programmer through 
 - [LinkedIn](https://www.linkedin.com/in/saraeilenstine/)
 - [Email Me!](mailto:sara.eilenstine@gmail.com)
 
-## My tools 🛠️:
+### My tools 🛠️:
 ![GitHub](https://img.shields.io/badge/GitHub-9A59B5?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-E10098?style=for-the-badge&logo=slack&logoColor=white)
 ![GSuite](https://img.shields.io/badge/GSuite-ff1616?style=for-the-badge&logo=google&logoColor=white)
