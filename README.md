@@ -41,5 +41,9 @@ In my spare time, I continue my studies and development as a programmer through 
 ![Nginx](https://img.shields.io/badge/Nginx-239120?style=for-the-badge&logo=nginx&logoColor=white)
 
 </br>
-
+<div align="center">
+  
+![cute-cat-white](https://github.com/cattelia/cattelia.github.io/assets/16729225/324cfaa2-154e-4d38-93c0-444d9aa5e8bc)
+  
+</div>
 ![sara](https://komarev.com/ghpvc/?username=cattelia&color=yellow)
