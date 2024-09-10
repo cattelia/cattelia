@@ -34,7 +34,7 @@ In my spare time, I continue my studies and development as a programmer through 
 ![Linux](https://img.shields.io/badge/Linux-14354C?style=for-the-badge&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Starting To Learn 💡:
+### Continuing To Learn 💡:
 
 ![Docker](https://img.shields.io/badge/Docker-039BE5?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-039BE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
