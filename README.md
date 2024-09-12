@@ -27,13 +27,15 @@ In my spare time, I continue my studies and development as a programmer through 
 ![CSS3](https://img.shields.io/badge/CSS-039BE5?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-239120?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/Typescript-039BE5?style=for-the-badge&logo=Typescript&logoColor=white)
 
 ### Tech Stack 🧰
 
 ![Visual-Studio](https://img.shields.io/badge/-Visual_Studio_Code-311C87?style=for-the-badge&logo=studio)
-![Bash](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=zsh&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=zsh&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-14354C?style=for-the-badge&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F24E1E.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### Continuing To Learn 💡:
 
