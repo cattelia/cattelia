@@ -2,14 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=806967&height=50&lines=Welcome+to+my+gitHub+page!)](https://git.io/typing-svg)
 
-I am a software engineer with program management and leadership experience and a focus on application, process, and operational automation. I have both Backend and Frontend experience ranging from my Internship with Symantec with on-premise database migration to Microsoft Azure, college, to Bootcamps I have taken more recently such as [FreeCodeCamp](https://www.freecodecamp.org) and [Boot.dev](https://www.boot.dev/) to re-hone the skills I have lost over the time I have been gone. With my combined skills of
-program management, automation, leadership, and stakeholder communications, I bring a unique perspective and passion for building clean, minimalist tools and applications that both companies and customers need.
+I am a driven professional making an exciting transition into software development and the tech industry, bringing years of experience in operations, program management, and process improvement. My career journey has been defined by my ability to identify inefficiencies, implement solutions, and lead teams toward measurable success. Building on this foundation, I’ve earned certifications in backend and frontend development from platforms like FreeCodeCamp, Boot.dev, and Front End Simplified, sharpening my technical skills and rekindling my passion for problem-solving through technology. I thrive at the intersection of operations and software development, where I can use my leadership and technical knowledge to design tools that streamline processes and drive impact.
+
+I’m eager to bring my unique combination of skills, a solutions-oriented mindset, and a deep passion for innovation to the tech industry. With my combined skills of program management, automation, leadership, and stakeholder communications, I bring a unique perspective and passion for building clean, minimalist tools and applications that both companies and customers need. Let’s connect to explore how I can contribute to your team’s success!
+
 
 In my spare time, I continue my studies and development as a programmer through little projects :] and play video games with friends.
 ![sara](https://komarev.com/ghpvc/?username=cattelia&color=yellow)
 ### Connect with me 📱: 
 
-- [LinkedIn](https://www.linkedin.com/in/saraeilenstine/)
+- [LinkedIn](https://www.linkedin.com/in/seilenstine/)
 - [Email Me](mailto:sara.eilenstine@gmail.com)
 
 ### My tools 🛠️:
