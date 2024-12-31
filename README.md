@@ -10,7 +10,7 @@ I’m eager to bring my unique combination of skills, a solutions-oriented minds
 In my spare time, I continue my studies and development as a programmer through little projects :] and play video games with friends.
 ![sara](https://komarev.com/ghpvc/?username=cattelia&color=yellow)
 ### Connect with me 📱: 
-
+ 
 - [LinkedIn](https://www.linkedin.com/in/seilenstine/)
 - [Email Me](mailto:sara.eilenstine@gmail.com)
 
