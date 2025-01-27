@@ -20,7 +20,6 @@ In my spare time, I continue my studies and development as a programmer through 
 ![GSuite](https://img.shields.io/badge/GSuite-ff1616?style=for-the-badge&logo=google&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-039BE5?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Programing Languages👾
 
